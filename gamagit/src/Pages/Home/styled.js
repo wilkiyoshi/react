@@ -22,3 +22,11 @@ export const Container = styled.div`
     align-items: center;
     justify-content: center;
 `;
+
+export const Erromsg = styled.span`
+    display:block;
+    font-size: 0.65rem;
+    color:red;
+    font-weight:600;
+    margin-left: 10px;
+`
